@@ -50,4 +50,4 @@ Operating System Design
 Acknowledgements
 This project is built on the vision of a system that is secure by design and transparent by nature. Reinvent DOS will be maintained by a community of architects and engineers dedicated to the future of minimalist computing.
 
-License: MIT/GPL-3.0
+License: CC0 1.0 Universal
